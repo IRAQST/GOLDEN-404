@@ -98,7 +98,6 @@ for x in range(10):
     j=random.randrange(1, 9)
     k=random.randrange(1, 9)
     l='Mobile WVGA SMM-MMS/1.2.0 OPN-B'
-    uak=f'{a}{b}/{c}{d}{e}{f}{g}{h}{i}{j}.{k} {l}'
 def uaku():
     try:
         ua=open('bbnew.txt','r').read().splitlines()
@@ -201,7 +200,6 @@ def linex():
     print('\033[1;37m')
 def animation(u):
     for e in u + "\n":sys.stdout.write(e);sys.stdout.flush();time.sleep(0.01)
-os.system("xdg-open https://www.facebook.com/reallive.realnam")
 #------------------[ LOGO-LAKNAT ]-----------------#
 logo =""" 
 \033[0;92m╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗                           ___   _   _ _____ _____ _   _ 
