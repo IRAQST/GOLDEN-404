@@ -23,7 +23,6 @@ time.sleep(5)
 os.system('clear')
 print("\033[97;1m[\033[92;1m+\033[97;1m] \033[0;92mFOLLOW ADMIN")
 time.sleep(2)
-os.system(f'xdg-open https://www.facebook.com/reallive.realnam')
 #------------------[ USER-AGENT ]-------------------#
 """
 Mozilla/5.0 (Linux; Android 11; Infinix X695 Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36 [FB_IAB/Orca-Android;FBAV/394.0.0.15.72;]
