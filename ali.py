@@ -1,6 +1,4 @@
-#join telegram t.me/mueorb
-#given by mueor
-#-----------------[ SEWAK-GOD ]-------------------#
+
  
 import requests,bs4,json,os,sys,random,datetime,time,re
 import urllib3,rich,base64
