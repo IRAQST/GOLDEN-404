@@ -1,4 +1,3 @@
-#join telegram t.me/mueorb
 #given by mueor
 #-----------------[ SEWAK-GOD ]-------------------#
  
