@@ -72,8 +72,6 @@ for xd in range(10000):
     i=random.randrange(1, 4)
     j=random.randrange(1, 4)
     k='Mobile Safari/535.1'
-    uaku=(f'{a}{b}.{c} {d}{e}{f}{g}.{h}.{i}.{j} {k}')
-    ugen2.append(uaku)
     
     aa='Mozilla/5.0 (Linux; Android 10; SM-A750FN)'
     b=random.choice(['6','7','8','9','10','11','12'])
