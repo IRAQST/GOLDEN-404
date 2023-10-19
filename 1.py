@@ -1,4 +1,4 @@
-حقوق : @BB22FF
+# حقوق : @BB22FF
 #-----------------[ SEWAK-GOD ]-------------------#
  
 import requests,bs4,json,os,sys,random,datetime,time,re
