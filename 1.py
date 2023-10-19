@@ -1,5 +1,4 @@
-#join telegram t.me/mueorb
-#given by mueor
+حقوق : @BB22FF
 #-----------------[ SEWAK-GOD ]-------------------#
  
 import requests,bs4,json,os,sys,random,datetime,time,re
